@@ -135,9 +135,7 @@ dmypy.json
 # *.model
 
 # Data files
-*.csv
 *.json
-data/
 datasets/
 raw_data/
 
